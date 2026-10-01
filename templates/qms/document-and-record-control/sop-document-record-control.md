@@ -259,6 +259,12 @@ as outlined in this SOP and delete records as soon as the retention period expir
 |-------------------|-------------------|
 | Record (released) | Record (archived) |
 
+<!-- referenced-by:start -->
+## Referenced by
+
+- [Quality Management Manual, Policy and Objectives](../quality-manual-policy-objectives.md)
+<!-- referenced-by:end -->
+
 ---
 
 Template Copyright [openregulatory.com](https://openregulatory.com). See [template

@@ -120,6 +120,12 @@ Change requests result as input to the SOP Software Development and are implemen
 This includes verification, validation and release activities while ensuring traceability. The relevant
 documentation is updated and released with an updated declaration of conformity.
 
+<!-- referenced-by:start -->
+## Referenced by
+
+- [Quality Management Manual, Policy and Objectives](../../qms/quality-manual-policy-objectives.md)
+<!-- referenced-by:end -->
+
 ---
 
 Template Copyright [openregulatory.com](https://openregulatory.com). See [template

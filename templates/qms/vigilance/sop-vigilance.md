@@ -254,6 +254,12 @@ All incident records shall be archived as part of the QMS.
 | Input        | Implementation of FSCA                              |
 | Output       | Final incident report and closed CAPA               |
 
+<!-- referenced-by:start -->
+## Referenced by
+
+- [Quality Management Manual, Policy and Objectives](../quality-manual-policy-objectives.md)
+<!-- referenced-by:end -->
+
 ---
 
 Template Copyright [openregulatory.com](https://openregulatory.com). See [template

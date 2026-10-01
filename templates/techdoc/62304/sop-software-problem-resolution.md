@@ -91,6 +91,12 @@ and can be closed. Closing the problem report is equivalent to successful verifi
 | Problem report     | Resolved/closed problem report |
 | Implemented change |                                |
 
+<!-- referenced-by:start -->
+## Referenced by
+
+- [Quality Management Manual, Policy and Objectives](../../qms/quality-manual-policy-objectives.md)
+<!-- referenced-by:end -->
+
 ---
 
 Template Copyright [openregulatory.com](https://openregulatory.com). See [template

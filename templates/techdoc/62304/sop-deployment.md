@@ -157,6 +157,12 @@ organization’s medical devices and services, it proceeds as outlined in the SO
 
 (...)
 
+<!-- referenced-by:start -->
+## Referenced by
+
+- [Quality Management Manual, Policy and Objectives](../../qms/quality-manual-policy-objectives.md)
+<!-- referenced-by:end -->
+
 ---
 
 Template Copyright [openregulatory.com](https://openregulatory.com). See [template

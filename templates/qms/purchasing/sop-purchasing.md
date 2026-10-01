@@ -213,6 +213,12 @@ evaluation criteria outlined in step 1.4.
 | Input        | Supplier records<br>List of Qualified Suppliers |
 | Output       | Updated List of Qualified Suppliers             |
 
+<!-- referenced-by:start -->
+## Referenced by
+
+- [Quality Management Manual, Policy and Objectives](../quality-manual-policy-objectives.md)
+<!-- referenced-by:end -->
+
 ---
 
 Template Copyright [openregulatory.com](https://openregulatory.com). See [template

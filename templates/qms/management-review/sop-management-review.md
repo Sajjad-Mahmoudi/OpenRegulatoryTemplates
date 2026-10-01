@@ -116,6 +116,12 @@ review period. This is communicated again to all relevant members of the organiz
 | Input        | Completed data analysis                                                             |
 | Output       | Management Review Report, new or revised KPIs and strategic goals, planned measures |
 
+<!-- referenced-by:start -->
+## Referenced by
+
+- [Quality Management Manual, Policy and Objectives](../quality-manual-policy-objectives.md)
+<!-- referenced-by:end -->
+
 ---
 
 Template Copyright [openregulatory.com](https://openregulatory.com). See [template

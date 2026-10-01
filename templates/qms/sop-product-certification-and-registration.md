@@ -137,6 +137,12 @@ SOP Software Development).
 | Input        | Released Declaration of Conformity               |
 | Output       | Updated or new UDI Completed device registration |
 
+<!-- referenced-by:start -->
+## Referenced by
+
+- [Quality Management Manual, Policy and Objectives](./quality-manual-policy-objectives.md)
+<!-- referenced-by:end -->
+
 ---
 
 Template Copyright [openregulatory.com](https://openregulatory.com). See [template

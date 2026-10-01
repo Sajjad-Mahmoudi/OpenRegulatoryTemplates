@@ -189,6 +189,12 @@ administrative offboarding. This includes:
 | Input        | Termination of employment                                       |
 | Output       | Removal of access rights<br>Updated documentation: deleted data |
 
+<!-- referenced-by:start -->
+## Referenced by
+
+- [Quality Management Manual, Policy and Objectives](../quality-manual-policy-objectives.md)
+<!-- referenced-by:end -->
+
 ---
 
 Template Copyright [openregulatory.com](https://openregulatory.com). See [template

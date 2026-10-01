@@ -94,6 +94,12 @@ All PMCF activities conducted per PMCF period are documented in a Post-Market Cl
 | Input        | Clinical Evaluation Report New clinical data during the marketing phase                                                          |
 | Output       | Completed Post-Market Clinical Follow-Up Plan and Report<br>If necessary: PMCF measures (e.g., CAPA, updated risk file, etc.) |
 
+<!-- referenced-by:start -->
+## Referenced by
+
+- [Quality Management Manual, Policy and Objectives](../qms/quality-manual-policy-objectives.md)
+<!-- referenced-by:end -->
+
 ---
 
 Template Copyright [openregulatory.com](https://openregulatory.com). See [template

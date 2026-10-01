@@ -104,6 +104,12 @@ below. Thereafter, the QMO closes the CAPA.
 |-------|--------------------------------------------------------------------|
 | CAPA  | CAPA, updated with verification, effectiveness review, closed date |
 
+<!-- referenced-by:start -->
+## Referenced by
+
+- [Quality Management Manual, Policy and Objectives](../quality-manual-policy-objectives.md)
+<!-- referenced-by:end -->
+
 ---
 
 Template Copyright [openregulatory.com](https://openregulatory.com). See [template

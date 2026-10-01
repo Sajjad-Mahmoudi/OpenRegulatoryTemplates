@@ -61,6 +61,12 @@ The QMO communicates new or revised regulation to relevant members of the organi
 | Input        | Implemented changes based on new or revised regulation                                                                        |
 | Output       | Communication to relevant members of the organization, Management Review Report: evaluation of implemented regulatory updates |
 
+<!-- referenced-by:start -->
+## Referenced by
+
+- [Quality Management Manual, Policy and Objectives](./quality-manual-policy-objectives.md)
+<!-- referenced-by:end -->
+
 ---
 
 Template Copyright [openregulatory.com](https://openregulatory.com). See [template

@@ -100,6 +100,12 @@ The QMO reports audit findings to the Management as part of the next Management 
 | Input        | Audit report       |
 | Output       | CAPA documentation |
 
+<!-- referenced-by:start -->
+## Referenced by
+
+- [Quality Management Manual, Policy and Objectives](../quality-manual-policy-objectives.md)
+<!-- referenced-by:end -->
+
 ---
 
 Template Copyright [openregulatory.com](https://openregulatory.com). See [template

@@ -151,6 +151,12 @@ contain at least the following information:
 | Input        | Collected and evaluated information |
 | Output       | Periodic Safety Update Report       |
 
+<!-- referenced-by:start -->
+## Referenced by
+
+- [Quality Management Manual, Policy and Objectives](../quality-manual-policy-objectives.md)
+<!-- referenced-by:end -->
+
 ---
 
 Template Copyright [openregulatory.com](https://openregulatory.com). See [template

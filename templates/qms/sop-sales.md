@@ -158,6 +158,12 @@ A *serious deterioration in state of health* results in at least one of the foll
 | Input        | Running customer project                           |
 | Output       | Initiated feedback management or vigilance process |
 
+<!-- referenced-by:start -->
+## Referenced by
+
+- [Quality Management Manual, Policy and Objectives](./quality-manual-policy-objectives.md)
+<!-- referenced-by:end -->
+
 ---
 
 Template Copyright [openregulatory.com](https://openregulatory.com). See [template
