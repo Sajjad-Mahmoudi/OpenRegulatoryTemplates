@@ -1,5 +1,9 @@
 # Software Development and Maintenance Plan
 
+| Document control | Details |
+| ---------------- | ------- |
+| OpenRegulatory record | [Open in OpenRegulatory](https://app.openregulatory.com/recordings/7e1bd338-6da7-4222-b87a-9709bb1390c5) |
+
 This document summarizes development and maintenance activities.
 
 ## Mapping of Standard Requirements to Document Sections
@@ -183,6 +187,12 @@ Validation is carried out as formative and summative usability evaluation as des
 
 *SOUP issue trackers are checked at least once every 6 months. The verification date is updated in the SOUP
 list accordingly.*
+
+<!-- referenced-by:start -->
+## Referenced by
+
+- [Intended Use](../../general/intended-use.md)
+<!-- referenced-by:end -->
 
 ---
 
