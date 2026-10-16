@@ -2,7 +2,7 @@
 
 **Product:** EsperityHealth (EspHealth)\
 **Document:** ISD – Intended Use\
-**Status:** Draft for review — updated 12 October 2026
+**Status:** Draft for review — staffing alignment updated 16 October 2026
 
 | Document control | Details |
 | ---------------- | ------- |
@@ -14,6 +14,7 @@
 | --- | --- | --- |
 | 12 October 2026 | Product-level revision covering the configurable application, patient and coach/HCP interfaces, inputs and outputs, broad tailoring across conditions and age groups, use conditions and remaining decisions. | R&D Manager coordinates; CTO confirms technical scope; Medical Lead and regulatory lead review the clinical purpose and population-specific use; CEO / System Owner confirms the product scope and approval arrangements. |
 | 12 October 2026 | Current app version identified as v4.13.85, linked to its GitHub tag and source commit; the earlier version-identification question is resolved. Alignment of controlled release/configuration records remains open. | R&D Manager coordinates; CTO confirms the controlled release/configuration mapping. |
+| 16 October 2026 | Defined responsibility labels against the company employee register; regulatory coordination proposed for the Research and Development Lead. Intended-purpose and clinical-scope decisions are unchanged. | Research and Development Lead coordinates; relevant role holders review responsibilities. |
 
 This document describes the intended use of EspHealth. The clinical role of its outputs in diagnosis or treatment remains to be confirmed. The draft supports the product regulatory assessment; it does not record a completed conformity assessment or authorise a new clinical use.
 
@@ -113,6 +114,8 @@ Supported wearables and paper/OCR workflows are identified with their compatible
 The qualification/classification assessment considers the functions and interfaces together. A change in branding or access permissions alone does not establish a separate regulatory scope. Changes to clinical claims, target populations, output interpretation or connected analyses are reflected in the intended use and supporting assessment.
 
 ## 10. Decisions required before approval
+
+Role holders are identified in the company personnel register in ChecksMATE. “CEO / System Owner” means the Chief Executive Officer; “CTO” means the Chief Technology Officer; “Medical Lead” means the Chief Medical Officer; and “R&D Manager” means the Research and Development Lead. Regulatory lead is a proposed coordination responsibility of the Research and Development Lead, with technical and clinical input from the CTO and Chief Medical Officer. It does not represent a separate employee or a PRRC appointment.
 
 | Decision | Current position / required record | Responsible role(s) |
 | --- | --- | --- |
