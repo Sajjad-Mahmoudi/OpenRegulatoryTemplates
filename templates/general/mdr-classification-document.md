@@ -83,7 +83,7 @@ Role holders are identified in the company personnel register in ChecksMATE. “
 
 Final qualification: **pending**. Final class and rule(s): **pending**. Approved rationale and review reference: **pending**.
 
-The [product pathway and evidence plan](https://app.openregulatory.com/recordings/183e79dc-c6d6-4c05-8471-7ce1b84a8226) coordinates the work and dates. The [Software Development and Maintenance Plan](../techdoc/62304/software-development-maintenance-plan.md) holds the separate software lifecycle planning. Deployment and study applicability are assessed for the actual use before the affected activity; the product evidence target does not defer applicable prerequisites.
+The [product pathway and evidence plan](./regulatory-pathway-evidence-plan.md) coordinates the work and dates. The [Software Development and Maintenance Plan](../techdoc/62304/software-development-maintenance-plan.md) holds the separate software lifecycle planning. Deployment and study applicability are assessed for the actual use before the affected activity; the product evidence target does not defer applicable prerequisites.
 
 ## Revision note
 
@@ -92,6 +92,12 @@ The [product pathway and evidence plan](https://app.openregulatory.com/recording
 | 13 October 2026 | Updated product identity to v4.13.85 and Esperity BV; replaced unsupported Class I conclusion with conditional qualification/classification reasoning and decision gaps. | Draft; regulatory and clinical review pending |
 | 13 October 2026 | Clarified the general configuration model; individual white-label identities and deployment details remain in configuration-specific records. | Draft; regulatory and clinical review pending |
 | 16 October 2026 | Defined responsibility labels against the company employee register; regulatory coordination proposed for the Research and Development Lead. No qualification or classification conclusion changed. | Draft; regulatory and clinical review pending |
+
+<!-- referenced-by:start -->
+## Referenced by
+
+- [EspHealth Regulatory Pathway and Evidence Plan](./regulatory-pathway-evidence-plan.md)
+<!-- referenced-by:end -->
 
 ---
 
