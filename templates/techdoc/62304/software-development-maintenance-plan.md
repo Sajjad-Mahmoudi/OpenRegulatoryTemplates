@@ -192,6 +192,7 @@ list accordingly.*
 ## Referenced by
 
 - [Intended Use](../../general/intended-use.md)
+- [EspHealth Medical Device Qualification and Classification](../../general/mdr-classification-document.md)
 <!-- referenced-by:end -->
 
 ---

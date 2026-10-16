@@ -136,6 +136,12 @@ The product identification, configuration, requirements, risk, usability, verifi
 
 This mapping identifies relevant topics; it is not a statement that all requirements have been met. Regulatory sources: [MDR](https://eur-lex.europa.eu/eli/reg/2017/745/oj/eng) and [MDCG 2019-11 rev.1](https://health.ec.europa.eu/system/files/2025-06/mdcg_2019_11_en.pdf).
 
+<!-- referenced-by:start -->
+## Referenced by
+
+- [EspHealth Medical Device Qualification and Classification](./mdr-classification-document.md)
+<!-- referenced-by:end -->
+
 ***
 
 Template Copyright [openregulatory.com](https://openregulatory.com). See [templatelicense](https://openregulatory.com/template-license).
