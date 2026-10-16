@@ -2,7 +2,7 @@
 
 **Product:** EsperityHealth (EspHealth)
 **Legal manufacturer:** Esperity BV
-**Status:** Draft for review; staffing alignment updated 16 October 2026
+**Status:** Draft for review; intended-purpose clarification updated 16 October 2026
 **Final MDR evidence target:** 31 July 2027
 
 | Document control | Details |
@@ -15,7 +15,7 @@ This plan coordinates the regulatory decisions and evidence needed for EspHealth
 
 The product can be tailored across all health conditions and age groups. Each configuration identifies the actual population, purpose, functions and supporting evidence. Broad configurability does not establish clinical suitability for every possible use.
 
-The [Intended Use](./intended-use.md) is under review as of 13 October. Whether outputs guide diagnosis or treatment remains to be confirmed. MDR qualification, device classification and the conformity route therefore remain open. The [Medical Device Classification](./mdr-classification-document.md) is the decision record; this plan coordinates its inputs and the resulting work.
+The [Intended Use](./intended-use.md) reflects the 16 October 2026 confirmation that EspHealth and its outputs are not intended to guide diagnosis or treatment decisions. The remaining assessment addresses the purpose of each function, including any monitoring or prediction purpose, and consistency of the functions and claims with this boundary. MDR qualification, device classification and the conformity route remain open. The [Medical Device Classification](./mdr-classification-document.md) is the decision record; this plan coordinates its inputs and the resulting work.
 
 ## 2\. Baseline and responsibilities
 
@@ -26,13 +26,14 @@ The [Intended Use](./intended-use.md) is under review as of 13 October. Whether 
 | Source commit | [3cc66fa32b8f1ad3e79309a6bad8cfa14136eb10](https://github.com/EsperityBV/esp-health/commit/3cc66fa32b8f1ad3e79309a6bad8cfa14136eb10), verified against the tag; this identifies source, not a verified deployment |
 | Controlled release/configuration | Mapping remains open. OpenRegulatory currently has a draft release titled v0.1.0; that record has not been relabelled as v4.13.85. |
 | Manufacturer details | Esperity BV is confirmed. Address, registration details and applicable device identifiers remain to be linked to controlled identification records. |
+| Confirmed purpose boundary | No guidance for diagnosis or treatment decisions, confirmed on 16 October 2026. This applies to EspHealth generally; it is not a study-specific restriction. |
 | Controlled evidence baseline | EspHealth requirements, design, risks, test specifications and results are maintained as controlled product records. Material originating in development, deployments or research is reviewed and incorporated through the evidence-adoption process in section 6. Identification and adoption of reusable material remain open. |
 
 Current role holders are identified in the company personnel register in ChecksMATE. The Chief Executive Officer (CEO / System Owner) confirms resources and manufacturer decisions. The Research and Development Lead (R&D Manager) coordinates product traceability, evidence adoption and dates and is the proposed holder of the regulatory lead and Quality Lead coordination responsibilities. Those functions cover regulatory planning, company-procedure coordination and evidence follow-up, with specialist input where needed. The Chief Medical Officer (CMO / Medical Lead) provides clinical claims and evidence input. The Chief Technology Officer (CTO / Technical Lead) performs all software development, including frontend and backend work, and owns the technical baseline, engineering evidence and software safety assessment. These functional labels do not represent additional employees. Formal management-representative and Person Responsible for Regulatory Compliance (PRRC) appointments and supporting competence evidence remain separate records.
 
 ## 3\. Route decision
 
-The assessment considers the intended medical purpose of each function and the application boundary. Recording health data, providing clinical interpretation and monitoring a physiological process can have different implications. Human review, user-role restrictions or a research setting do not by themselves remove a medical purpose. The classification draft records the conditional Rule 11 assessment and missing clinical decisions. [MDCG 2019-11 rev.1, sections 3, 4 and 7](https://health.ec.europa.eu/system/files/2025-06/mdcg_2019_11_en.pdf).
+The assessment considers the intended medical purpose of each function and the application boundary. Recording health data, providing clinical interpretation and monitoring a physiological process can have different implications. Human review, user-role restrictions or a research setting do not by themselves remove a medical purpose. The classification draft records the confirmed exclusion of diagnosis/treatment guidance, the initial function-by-function assessment and the remaining Rule 11 questions. The next review establishes the meaning of outputs, expected follow-up, monitored parameters and timing, any prediction purpose and whether vital-parameter changes may create immediate danger. These findings determine the applicable route; the scope decision alone does not establish Class I or a non-device conclusion. [MDCG 2019-11 rev.1, sections 3, 4 and 7](https://health.ec.europa.eu/system/files/2025-06/mdcg_2019_11_en.pdf).
 
 | Possible conclusion | Consequence for planning |
 | ------------------- | ------------------------ |
@@ -51,7 +52,7 @@ Each package has one controlled master. Existing templates are starting points; 
 
 | Package / working document | Master platform and reusable sources | Evidence needed / present gap | Lead role |
 | -------------------------- | ------------------------------------ | ----------------------------- | --------- |
-| Intended Use; Medical Device Classification; product identification | OpenRegulatory product documents | Agreed clinical purpose, populations/configurations, function boundary, qualification, class, route and manufacturer details. Clinical purpose and final classification remain open. | Regulatory lead; Medical Lead |
+| Intended Use; Medical Device Classification; product identification | OpenRegulatory product documents | Diagnosis/treatment guidance is excluded by the confirmed purpose decision. Remaining work: function-purpose and claims consistency, populations/configurations, monitoring/prediction assessment, qualification, class, route and full manufacturer details. | Regulatory lead; Medical Lead |
 | GSPR checklist and technical documentation index | OpenRegulatory; controlled links to engineering and supporting records | Each applicable General Safety and Performance Requirement (GSPR) has a rationale and evidence link; non-applicability is justified. The index follows MDR Annexes II and III. | Regulatory lead; Quality Lead |
 | Risk Management Plan, analysis and report | OpenRegulatory product risk records | Hazards, foreseeable misuse, harm severity, controls, verification and residual-risk decisions for actual workflows and integrations; separate software safety-class rationale. | CTO; Medical Lead |
 | Requirements, design and software lifecycle records | OpenRegulatory; source repository and release/configuration records | Versioned requirements/design, architecture, dependencies/SOUP, development and maintenance methods, change/problem handling and reproducible release identification. Accepted requirements, design and traceability records form the product baseline, including reviewed material adopted from other sources. | CTO |
@@ -73,7 +74,7 @@ The 25 October pathway milestone is retained. The 31 July 2027 final MDR evidenc
 
 | Date | Deliverable / review gate | Lead role | Completion evidence |
 | ---- | ------------------------- | --------- | ------------------- |
-| 25 October 2026 — existing target | Clinical-purpose and route review; baseline and role decisions; agreement of this plan | Regulatory lead; Medical Lead; CTO; CEO / System Owner | Reviewed Intended Use and classification reasoning, recorded open decisions, assigned evidence packages and an agreed schedule. Any unresolved route decision has an owner and revised date. |
+| 25 October 2026 — existing target | Function-purpose and route review following the confirmed exclusion of diagnosis/treatment guidance; baseline and role decisions; agreement of this plan | Regulatory lead; Medical Lead; CTO; CEO / System Owner | Reviewed function-purpose table, including output meanings, expected follow-up and monitoring/parameter risks; consistent Intended Use and claims; classification reasoning, assigned evidence packages and an agreed schedule. Any unresolved route decision has an owner and revised date. |
 | 30 November 2026 — proposed | Evidence plans and initial gap review | CTO; Medical Lead; Quality Lead; regulatory lead | Risk, clinical, verification/usability and GSPR plans; technical index; release/configuration mapping. If notified-body involvement is indicated, an early availability/scope assessment and proposed assessment dates. |
 | 31 January 2027 — proposed | First implementation and evidence review | CTO; Medical Lead; Quality Lead | Initial risk controls and verification records, company implementation evidence, clinical evidence inventory and a dated gap list. Required external assessment arrangements have a recorded status. |
 | 30 April 2027 — proposed | Product dossier review against the agreed claims and route | Regulatory lead; Medical Lead; CTO | Reviewed available technical/clinical evidence, remaining studies/data needs and corrective actions. External review starts according to the agreed route and provider schedule; this date is not a certification promise. |
@@ -111,6 +112,7 @@ Changes after v4.13.85 receive an impact assessment and updated coverage. Classi
 | 13 October 2026 | Initial product plan using v4.13.85, confirmed Esperity BV manufacturer identity and 31 July 2027 final evidence target; conditional pathway, evidence packages and proposed intermediate gates. | Draft; owner agreement and regulatory/clinical review pending |
 | 13 October 2026 | Clarified the general white-label configuration model and independent company/product records; removed named-project dependencies and defined review, retention and acceptance of adopted evidence. | Draft; evidence adoption and review remain open |
 | 16 October 2026 | Mapped functional roles to the existing company team, including CTO responsibility for all software development and proposed quality/regulatory coordination by the Research and Development Lead. | Draft; formal appointments and supporting competence evidence remain separate |
+| 16 October 2026 | Recorded the confirmed exclusion of diagnosis/treatment guidance and focused the next pathway review on function purposes, monitoring, expected follow-up and claims consistency. Existing milestones are unchanged. | Draft; remaining qualification/classification and approval pending |
 
 <!-- referenced-by:start -->
 ## Referenced by
