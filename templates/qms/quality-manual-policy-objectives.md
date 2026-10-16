@@ -4,9 +4,9 @@
 | ---------------- | ------- |
 | Identifier | QMM |
 | Status | Draft for review; not effective |
-| Draft updated | 30 September 2026 |
+| Draft updated | 16 October 2026 — staffing alignment |
 | Accountable owner and approver | Chief Executive Officer (CEO) |
-| QMS coordination | R&D Manager / Quality Lead; formal company-wide appointment pending |
+| QMS coordination | Research and Development Lead; proposed Quality Lead responsibility, with formal company-wide appointment pending |
 | Review input | Technical, medical, regulatory and privacy roles, according to the subject |
 | Controlled master | This OpenRegulatory record; version and approval history are maintained in the platform |
 | OpenRegulatory record | [Open in OpenRegulatory](https://app.openregulatory.com/documents/bb49a322-e996-4ffd-bada-ad50bee727d7) |
@@ -86,21 +86,23 @@ The first measurement establishes the baseline after the relevant process become
 
 The following is the proposed responsibility structure. A role description is not an appointment. The CEO confirms accountable holders, deputies, authority and competence in controlled assignment records before the relevant responsibilities take effect.
 
-The R&D Manager corresponds to the “Research and Development Lead” role in the company role register. “Medical Lead” refers to the Chief Medical Officer (CMO); “Technical Lead” refers to the Chief Technology Officer (CTO).
+Current role holders are identified in the company personnel register in ChecksMATE. “R&D Manager” means the Research and Development Lead; “Medical Lead” means the Chief Medical Officer (CMO); and “Technical Lead” means the Chief Technology Officer (CTO). All software development is performed by the CTO, including frontend and backend work. Quality Lead and regulatory lead are proposed coordination responsibilities of the Research and Development Lead, not additional staff positions. The proposed allocation for privacy operations is CEO accountability, Administration Lead coordination of requests and registers, CTO technical investigation and implementation, and Systems Administrator support for assigned operational actions. The Data Protection Officer provides independent advice and monitoring as an external provider. The CEO, Systems Administrator and Business Representative have the same holder. Formal management-representative and PRRC appointments, deputies and supporting competence records remain separate from these responsibility allocations.
 
 | Role | Main QMS responsibilities |
 | ---- | ------------------------- |
 | CEO | Policy, objectives, resources, organisational assignments and management review; approval of the QMS scope and major quality decisions. Ensures unresolved quality or compliance issues receive a decision. |
-| Quality Lead / QMS management representative | Coordinates QMS implementation, document control, training follow-up, audits, quality measures and corrective action; reports QMS performance and resource needs directly to the CEO and promotes awareness of applicable requirements. Formal company-wide appointment remains pending. |
+| Quality Lead / QMS coordination — Research and Development Lead (proposed) | Coordinates QMS implementation, document control, training follow-up, audits, quality measures and corrective action; reports QMS performance and resource needs directly to the CEO and promotes awareness of applicable requirements. Formal company-wide management-representative appointment remains pending. |
 | R&D Manager | Coordinates research and development planning, requirements, traceability and evidence planning with the relevant functional leads; supports the application of QMS processes to development activities. |
 | CTO / Technical Lead | Technical design, development, configuration, infrastructure, security implementation, verification, deployment and maintenance; technical suppliers and recovery arrangements. |
 | CMO / Medical Lead | Clinical input to intended purpose, requirements, risk assessment, usability and evaluation; review of clinical claims and evidence. |
-| Designated regulatory lead | Qualification/classification, applicable requirements, conformity planning, regulatory documentation and coordination with the PRRC where applicable. Assignment and competence remain to be confirmed. |
+| Regulatory lead — Research and Development Lead (proposed) | Qualification/classification, applicable requirements, conformity planning, regulatory documentation and coordination with the PRRC where applicable. Coordination is proposed for the Research and Development Lead; supporting competence and any specialist review arrangements remain to be evidenced. |
 | Person Responsible for Regulatory Compliance (PRRC) | Responsibilities described in section 3.2, where required. Appointment and qualification evidence remain to be confirmed. |
-| Data Protection Officer (DPO) | Independent advice and monitoring on data protection, including relevant DPIAs; supports the responsible controller or processor without taking over its decisions. |
-| Privacy operations owners | Operational ownership of breach handling, rights requests and their registers. Specific leads and deputies remain to be assigned. |
-| Systems Administrator and other functional staff | Assigned operational controls, support, records and escalation within their competence and authorised access. |
-| Business and Communication roles | Customer requirements and feedback, and accurate product communications consistent with the reviewed intended purpose and supported claims. |
+| Data Protection Officer (DPO) | External provider for independent advice and monitoring on data protection, including relevant DPIAs; supports the responsible controller or processor without taking over its decisions. |
+| Privacy operations — CEO, supported by Administration Lead, CTO and Systems Administrator (proposed) | CEO accountability for company operational decisions; Administration Lead coordinates requests and registers; CTO performs technical investigation and implementation; Systems Administrator supports assigned operational actions. Deputies remain to be recorded. |
+| Systems Administrator | Assigned operational controls, access and service coordination, records and escalation, with technical implementation by the CTO. Same holder as the CEO and Business Representative. |
+| Administration Lead | Administrative, personnel and training-record support to the responsible company or QMS role. |
+| Graphic Design | Visual design and interface assets, with relevant requirements and usability input; software implementation remains with the CTO. |
+| Business Representative and Communication | Customer requirements and feedback, and accurate product communications consistent with the reviewed intended purpose and supported claims. |
 
 One person may hold several roles where competence, workload and independence allow. The Quality Lead has direct access to the CEO and can escalate concerns without approval from the process being reviewed. Auditors do not audit their own work. Document and release reviews use suitably competent reviewers; the author is not the sole reviewer and approver.
 
@@ -180,6 +182,12 @@ Management review is planned at least annually, with the first review within six
 Before this manual becomes effective, the approval record confirms the scope and justified applicability decisions; accountable role appointments and competence; the implementation plan and effective status of supporting procedures; and the initial objectives, audit/review schedule and training arrangements. Draft procedures are not treated as effective instructions, and any interim control is separately authorised and recorded.
 
 The Quality Lead maintains company QMS implementation actions, evidence gaps, owners and target dates in controlled action records and reports their status to management. Product and project plans maintain their own milestones and evidence needs. Decisions to release a product or begin an activity depend on the applicable evidence and authorisations.
+
+## Revision note
+
+| Date | Change | Status |
+| --- | --- | --- |
+| 16 October 2026 | Mapped functional responsibilities to registered company roles, including CTO responsibility for all software development and proposed quality, regulatory and privacy coordination. | Draft; formal appointments and supporting competence evidence remain separate. |
 
 ***
 
