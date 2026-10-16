@@ -97,6 +97,7 @@ The [product pathway and evidence plan](./regulatory-pathway-evidence-plan.md) c
 ## Referenced by
 
 - [EspHealth Regulatory Pathway and Evidence Plan](./regulatory-pathway-evidence-plan.md)
+- [Software Development and Maintenance Plan](../techdoc/62304/software-development-maintenance-plan.md)
 <!-- referenced-by:end -->
 
 ---
